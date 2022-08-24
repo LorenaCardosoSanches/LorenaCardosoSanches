@@ -7,7 +7,8 @@
 </p>
 
 
-## 👩🏻‍🦱 Sobre mim 👩🏻‍🦱
+
+## Sobre mim 👩🏻‍🦱
 
  ◈ Sou estudante de Ciência da Computação no [Centro Universitário FEI](https://portal.fei.edu.br/)
  
@@ -16,7 +17,8 @@
  ◈ Atualmente estou fazendo um curso profissionalizante de Suporte de TI, oferecido pela Google na plataforma Coursera
 
 
-## 👩🏻‍💻 Skills 👩🏻‍💻
+
+## Skills 👩🏻‍💻
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6)
@@ -25,12 +27,13 @@
 ![Web Storm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
 
 
-## 💌 Fale Comigo 💌
+## Fale Comigo 💌
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/lorena-cardoso-sanches-a05695240)
 [![mail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:lorena.cardoso.s@outlook.com?subject=[GitHub]%2Hello)
 
-## 💻 GitHub 💻
+
+## GitHub 💻
 
 [![Lorena's GitHub stats](https://github-readme-stats.vercel.app/api?username=LorenaCardosoSanches&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
