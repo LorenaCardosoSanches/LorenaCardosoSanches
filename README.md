@@ -6,7 +6,18 @@
   <img src="" alt="Lorena Profile"/>
 </p>
 
+![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=scaleIn .8s)
 
+## GitHub 💻
+
+<div align="center">
+  <a href="https://github.com/LorenaCardosoSanches">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LorenaCardosoSanches&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorenaCardosoSanches&layout=compact&langs_count=7&theme=synthwave"/>
+</div>
+
+![Snake animation](https://github.com/LorenaCardosoSanches/LorenaCardosoSanches/blob/output/github-contribution-grid-snake.svg)
+  
 
 ## Sobre mim 👩🏻‍🦱
 
@@ -33,10 +44,4 @@
 [![mail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:lorena.cardoso.s@outlook.com?subject=[GitHub]%2Hello)
 
 
-## GitHub 💻
 
-[![Lorena's GitHub stats](https://github-readme-stats.vercel.app/api?username=LorenaCardosoSanches&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenaCardosoSanches&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-![Snake animation](https://github.com/LorenaCardosoSanches/LorenaCardosoSanches/blob/output/github-contribution-grid-snake.svg)
