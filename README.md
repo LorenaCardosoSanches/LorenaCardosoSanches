@@ -15,7 +15,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorenaCardosoSanches&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
-![Snake animation](https://github.com/lorenacardososanches/lorenacardososanches/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LorenaCardosoSanches/LorenaCardosoSanches/blob/output/github-contribution-grid-snake.svg)
   
 
 ## Sobre mim 👩🏻‍🦱
