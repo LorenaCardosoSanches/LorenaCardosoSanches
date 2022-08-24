@@ -10,7 +10,9 @@
 ## 👩🏻‍🦱 Sobre mim 👩🏻‍🦱
 
  ◈ Sou estudante de Ciência da Computação no [Centro Universitário FEI](https://portal.fei.edu.br/)
+ 
  ◈ No momento estou estudando para me tornar uma Desenvolvesora Front-End com especialização em React e React Native, sempre gostei da parte visual e esse é o meu foco na programação
+ 
  ◈ Atualmente estou fazendo um curso profissionalizante de Suporte de TI, oferecido pela Google na plataforma Coursera
 
 
