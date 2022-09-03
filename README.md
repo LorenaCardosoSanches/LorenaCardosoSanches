@@ -2,9 +2,7 @@
 
 <h3 align="center">💫 Futura Desenvolvedora Front-End >>> React // React Native 💫</h3>
 
-<p align="center">
-  <img src="" alt="Lorena Profile"/>
-</p>
+<img src="GIFgit.gif">
 
 
 ## GitHub 💻
@@ -18,7 +16,7 @@
 ![Snake animation](https://github.com/LorenaCardosoSanches/LorenaCardosoSanches/blob/output/github-contribution-grid-snake.svg)
   
 
-## Sobre mim 👩🏻‍🦱
+## Sobre mim 💜
 
  ◈ Sou estudante de Ciência da Computação no [Centro Universitário FEI](https://portal.fei.edu.br/)
  
