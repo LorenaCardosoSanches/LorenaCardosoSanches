@@ -39,7 +39,7 @@
 ## Fale Comigo 💌
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/lorena-cardoso-sanches-a05695240)
-[![mail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:lorena.cardoso.s@outlook.com?subject=[GitHub]%2Hello)
+[![mail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:lorena.cardoso.s@outlook.com?subject=[GitHub])
 
 
 
