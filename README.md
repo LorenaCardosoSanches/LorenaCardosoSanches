@@ -29,11 +29,7 @@
 
 ## Skills 👩🏻‍💻
 
-![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python&logoColor=3776AB)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Web Storm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=html,css,py,js,c,cpp,java,git,github,vscode&theme=dark&perline=7)](https://skillicons.dev)
 
 
 ## Fale Comigo 💌
