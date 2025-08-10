@@ -1,6 +1,6 @@
 <!-- img diviser -->
 <p align="center">
-  <img src="assets/img_diviser.png" alt="imagem diviser - fundo roxo estrelado" width="100%" />
+  <img src="https://github.com/LorenaCardosoSanches/LorenaCardosoSanches/blob/main/assents/img_diviser.png" alt="imagem diviser - fundo roxo estrelado" width="100%" />
 </p>
 
 <h1 align="center">Oie, eu sou a Lorena Cardoso ✨</h1>
@@ -18,8 +18,9 @@
 
 <!-- img diviser -->
 <p align="center">
-  <img src="assets/img_diviser.png" alt="imagem diviser - fundo roxo estrelado" width="100%" />
+  <img src="https://github.com/LorenaCardosoSanches/LorenaCardosoSanches/blob/main/assents/img_diviser.png" alt="imagem diviser - fundo roxo estrelado" width="100%" />
 </p>
+
 
 ## Sobre mim
 
@@ -29,10 +30,7 @@
 - 🔭 Atualmente em constante evolução em **React**, **TypeScript** e arquitetura de interfaces escaláveis.  
 
 
-<!-- img diviser -->
-<p align="center">
-  <img src="assets/img_diviser.png" alt="imagem diviser - fundo roxo estrelado" width="100%" />
-</p>
+v
 
 ## Tecnologias & Ferramentas
 
@@ -59,8 +57,9 @@
 
 <!-- img diviser -->
 <p align="center">
-  <img src="assets/img_diviser.png" alt="imagem diviser - fundo roxo estrelado" width="100%" />
+  <img src="https://github.com/LorenaCardosoSanches/LorenaCardosoSanches/blob/main/assents/img_diviser.png" alt="imagem diviser - fundo roxo estrelado" width="100%" />
 </p>
+
 
 ## Estatísticas
 
@@ -75,8 +74,9 @@
 
 <!-- img diviser -->
 <p align="center">
-  <img src="assets/img_diviser.png" alt="imagem diviser - fundo roxo estrelado" width="100%" />
+  <img src="https://github.com/LorenaCardosoSanches/LorenaCardosoSanches/blob/main/assents/img_diviser.png" alt="imagem diviser - fundo roxo estrelado" width="100%" />
 </p>
+
 
 <p align="center"><i>"A melhor interface é aquela que encanta e é fácil de usar."</i></p>
 
@@ -87,5 +87,6 @@
 
 <!-- img diviser -->
 <p align="center">
-  <img src="assets/img_diviser.png" alt="imagem diviser - fundo roxo estrelado" width="100%" />
+  <img src="https://github.com/LorenaCardosoSanches/LorenaCardosoSanches/blob/main/assents/img_diviser.png" alt="imagem diviser - fundo roxo estrelado" width="100%" />
 </p>
+
