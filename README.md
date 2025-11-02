@@ -16,7 +16,10 @@
   <a href="mailto:lorena.cardoso.s@outlook.com">Email</a>
 </p>
 
----
+<!-- img diviser -->
+<p align="center">
+  <img src="https://github.com/LorenaCardosoSanches/LorenaCardosoSanches/blob/main/assents/img_diviser.png" alt="imagem diviser - fundo roxo estrelado" width="100%" />
+</p>
 
 ## Sobre mim
 
@@ -25,7 +28,10 @@
 - 📍 São Paulo, Brasil.  
 - 🔭 Atualmente em constante evolução em **React**, **TypeScript** e arquitetura de interfaces escaláveis.  
 
----
+<!-- img diviser -->
+<p align="center">
+  <img src="https://github.com/LorenaCardosoSanches/LorenaCardosoSanches/blob/main/assents/img_diviser.png" alt="imagem diviser - fundo roxo estrelado" width="100%" />
+</p>
 
 ## Tecnologias & Ferramentas
 
@@ -50,7 +56,10 @@
 ![Kanban](https://img.shields.io/badge/Kanban-222?style=for-the-badge&logo=trello)
 ![Scrum](https://img.shields.io/badge/Scrum-222?style=for-the-badge&logo=scrumalliance)
 
----
+<!-- img diviser -->
+<p align="center">
+  <img src="https://github.com/LorenaCardosoSanches/LorenaCardosoSanches/blob/main/assents/img_diviser.png" alt="imagem diviser - fundo roxo estrelado" width="100%" />
+</p>
 
 ## Estatísticas
 
@@ -63,7 +72,10 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorenaCardosoSanches&layout=compact&theme=radical&hide_border=true" alt="Top Langs"/>
 </p>
 
----
+<!-- img diviser -->
+<p align="center">
+  <img src="https://github.com/LorenaCardosoSanches/LorenaCardosoSanches/blob/main/assents/img_diviser.png" alt="imagem diviser - fundo roxo estrelado" width="100%" />
+</p>
 
 <p align="center"><i>"A melhor interface é aquela que encanta e é fácil de usar."</i></p>
 
